@@ -67,13 +67,13 @@ span {
     position: relative;
     top: -910px;
     left: 500px;
-    width: 350px;
+    width: 370px;
     height: 850px;
 }
 
 .blocNote h3 {
     margin-left: 100px;
-    margin-top: -15px;
+    margin-top: -25px;
 }
 
 .blocNote p {
@@ -91,9 +91,9 @@ span {
 }
 
 .formation h3 {
-    margin-left: 120px;
+    margin-left: 100px;
     margin-bottom: 20px;
-    margin-top: -15px;
+    margin-top: -25px;
 }
 
 .formation li {
@@ -122,8 +122,8 @@ span {
 }
 
 .ampoule h3 {
-    margin-left: 140px;
-    margin-top: -20px;
+    margin-left: 150px;
+    margin-top: -25px;
 }
 
 .ampoule li {
@@ -140,6 +140,8 @@ span {
 
 .expérience h3 {
     margin-left: 20px;
+    margin-top: -12px;
+
 }
 
 .expérience p {
@@ -186,12 +188,12 @@ span {
 .compétence h3 {
     margin-left: 100px;
     margin-bottom: 20px;
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 .compétence li {
     list-style: none;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: -20px;
 }
 
